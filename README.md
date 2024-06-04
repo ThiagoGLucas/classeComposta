@@ -1,0 +1,2 @@
+# classeComposta
+classesCompostas
